@@ -7,5 +7,5 @@
 clear
 sudo rm -r /media/user/DriveName/FolderName/webScraper/
 echo "[whatever] app directory removed from USB stick"
-sudo cp -r Documents/FolderName/webScraper/ /media/user/DriveName/FolderName/webScraper/
+cp -r Documents/FolderName/webScraper/ /media/user/DriveName/FolderName/webScraper/
 echo "[whatever] app directory copied from Documents to USB stick"
